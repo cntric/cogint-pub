@@ -17,3 +17,11 @@ Cogint provides tracking metrics for project completion and workspace interactiv
 Cogint uses a comprehensive role based access control system to control document access and delivery.
 
 [about-cogint]
+
+[about]
+About
+[about]
+
+[terms]
+Terms
+[terms]
